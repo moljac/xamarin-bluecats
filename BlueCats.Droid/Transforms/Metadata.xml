@@ -1,0 +1,7 @@
+<metadata>
+  <attr path="/api/package[@name='com.bluecats.sdk']" name="managedName">BlueCats</attr>
+  <attr path="/api/package[@name='com.bluecats.sdk']/class[@name='BCLocationManager']" name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bluecats.sdk']/class[@name='BlueCatsSDK']/method[@name='startPurringWithAppToken']/parameter[@name='p0']" name="name">context</attr>
+  <attr path="/api/package[@name='com.bluecats.sdk']/class[@name='BlueCatsSDK']/method[@name='startPurringWithAppToken']/parameter[@name='p1']" name="name">appToken</attr>
+</metadata>

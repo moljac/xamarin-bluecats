@@ -1,0 +1,16 @@
+# EditorConfig is awesome: http://EditorConfig.org
+# Install the Visual Studio plugin from https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328
+
+# Top-most EditorConfig file
+root=true
+
+[*]
+end_of_line = crlf
+
+[*.cs]
+indent_style = space
+indent_size = 4
+
+[*.{html,xml,xaml,nuspec,resx,plist}]
+indent_style = space
+indent_size = 2
