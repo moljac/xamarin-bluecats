@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCats.Droid", "BlueCats.Droid\BlueCats.Droid.csproj", "{3DEAC132-67F8-40D7-AE4D-D05B9123423C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hardware", "Hardware", "{F672D178-8A5C-45A4-90F8-AAF667923623}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchingPost", "ScratchingPost\ScratchingPost\ScratchingPost.csproj", "{70D0F0CA-F31D-4376-9C64-AA7D0113E271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchingPost.Droid", "ScratchingPost\ScratchingPost.Droid\ScratchingPost.Droid.csproj", "{01F925D6-8BB4-4C87-AB70-0554CC755EF2}"
@@ -178,8 +176,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{3DEAC132-67F8-40D7-AE4D-D05B9123423C} = {F672D178-8A5C-45A4-90F8-AAF667923623}
 	EndGlobalSection
 EndGlobal
